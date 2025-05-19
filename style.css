@@ -16,7 +16,7 @@ body {
     margin:0px auto;
 }
 
-main {
+.caixa {
     width: 375px;
     border-radius: 20px;
     background: rgba(244, 244, 244, 1);
